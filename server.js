@@ -14,5 +14,5 @@ app.get('/detail', scraper.detail);
 app.get('/search', scraper.search);
 
 app.listen(PORT, () => {
-    print(`Server berjalan di http://localhost:${PORT}`);
+    console.log(`Server berjalan di http://localhost:${PORT}`);
 });
