@@ -1,0 +1,14 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="retroGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff00ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7000ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#120458" />
+  <circle cx="250" cy="220" r="120" fill="url(#retroGrad)" />
+  <rect x="130" y="220" width="240" height="10" fill="#120458" />
+  <rect x="130" y="240" width="240" height="8" fill="#120458" />
+  <rect x="130" y="260" width="240" height="5" fill="#120458" />
+  <text x="50%" y="380" font-family="Arial Black, sans-serif" font-size="80" fill="#00ffff" text-anchor="middle" font-style="italic" stroke="#ffffff" stroke-width="2">XENA</text>
+</svg>
